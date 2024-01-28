@@ -1,16 +1,13 @@
-### Hi there 👋
+# 😼 hi i'm kacper.
+i am a computer scientist ***(wow)*** and i make computers do things. i'm not only a computer scientist ***(wow)*** though, i do other stuff such as compose music, create art and lots of other stuff. i'm very passionate about all of this.
 
-<!--
-**kacpq/kacpq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤔 what do i do?
+i do whatever really, anything that interests me. this can include:
+- games
+- utilities
+- bots
+- custom game servers
+- apis
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙂 so yeah that's about it i don't wanna write anymore.
+bye.
